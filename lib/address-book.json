@@ -1,0 +1,39 @@
+{
+  "collection": {
+    "name": "The Watchers",
+    "fullName": "ohhNFT.com Presents: The Watchers, Protectors of the Interchain",
+    "symbol": "OHHNFT",
+    "contract": "cosmos1wszargul89xk05n6v5dapkwk8kxsyhxsdsyds0fz6a0j54gh35lsyhql53",
+    "stargazeLegacy": "stars15jugk3w42q4a06df4p4tfqx5jnlrk2rg0c3sqj3ch0nhwyhj28ysnfvjf6",
+    "url": "https://stargaze.zone/m/cosmos1wszargul89xk05n6v5dapkwk8kxsyhxsdsyds0fz6a0j54gh35lsyhql53"
+  },
+  "marketplace": "cosmos1tl0ptdmlz422z5pj20zujzyt3c96qp2g9vp83uj9pyj8q994tzhsl77adr",
+  "wallets": [
+    {"id": "treasury", "label": "treasury", "role": "treasury", "stars": "stars12cnz38hufmn38a2jwk76z2mxuxqjwaa9kz4ckd", "cosmos": "cosmos12cnz38hufmn38a2jwk76z2mxuxqjwaa9z7z9au"},
+    {"id": "floor-01", "label": "floor-01", "role": "floor", "stars": "stars1e27chu35p4s45nvgpwfp7ul9j6zcw3r52kr9ju", "cosmos": "cosmos1e27chu35p4s45nvgpwfp7ul9j6zcw3r5725ced"},
+    {"id": "floor-02", "label": "floor-02", "role": "floor", "stars": "stars10plpjckmyrytjjks7d940quzkf0vh2kas6ytw3", "cosmos": "cosmos10plpjckmyrytjjks7d940quzkf0vh2kayxnk9q"},
+    {"id": "floor-03", "label": "floor-03", "role": "floor", "stars": "stars1j8j00yx0uf8z5sxaumq4v9gp7w2y9cxfyeth62", "cosmos": "cosmos1j8j00yx0uf8z5sxaumq4v9gp7w2y9cxfs9u23m"},
+    {"id": "floor-04", "label": "floor-04", "role": "floor", "stars": "stars1y2gkyazkg92ya3qljtq6y4pnfflj4hvzayfx44", "cosmos": "cosmos1y2gkyazkg92ya3qljtq6y4pnfflj4hvzfc7m7y"},
+    {"id": "floor-05", "label": "floor-05", "role": "floor", "stars": "stars1elxfv0nj4t7k24vkxsuwmg9qsj9z8kf3zh03lx", "cosmos": "cosmos1elxfv0nj4t7k24vkxsuwmg9qsj9z8kf3ktcv5h"},
+    {"id": "floor-06", "label": "floor-06", "role": "floor", "stars": "stars1j6ny53h4l78sre9aemc5mkfpqv5dj4zr0w308s", "cosmos": "cosmos1j6ny53h4l78sre9aemc5mkfpqv5dj4zrmjxjvp"},
+    {"id": "floor-07", "label": "floor-07", "role": "floor", "stars": "stars187vepzgkhysvllk8enr8s9m2s8l5vdfaxzkvj8", "cosmos": "cosmos187vepzgkhysvllk8enr8s9m2s8l5vdfaj7p3ek"},
+    {"id": "floor-08", "label": "floor-08", "role": "floor", "stars": "stars1nmyp080lm6rc6tw56s64wfl22e8pntlsfnkmuk", "cosmos": "cosmos1nmyp080lm6rc6tw56s64wfl22e8pntlsa0pxh8"},
+    {"id": "floor-09", "label": "floor-09", "role": "floor", "stars": "stars1wh6n2ky6nzrcm88qmg9cgcsze85q42pgt8qgct", "cosmos": "cosmos1wh6n2ky6nzrcm88qmg9cgcsze85q42pglmh4n6"},
+    {"id": "floor-10", "label": "floor-10", "role": "floor", "stars": "stars1ycv7pyq9eha63tgrycrakwagqx4s60q0gc8j6h", "cosmos": "cosmos1ycv7pyq9eha63tgrycrakwagqx4s60q0uys03x"},
+    {"id": "floor-11", "label": "floor-11", "role": "floor", "stars": "stars1sh9xhhcl042anmxx28mzjxeqenth5lwv2ptwh4", "cosmos": "cosmos1sh9xhhcl042anmxx28mzjxeqenth5lwv7aunuy"},
+    {"id": "floor-12", "label": "floor-12", "role": "floor", "stars": "stars183qaj76nhh8uh5uc7dxd0uy6r35ktrmvzm8tzp", "cosmos": "cosmos183qaj76nhh8uh5uc7dxd0uy6r35ktrmvk8skfs"},
+    {"id": "floor-13", "label": "floor-13", "role": "floor", "stars": "stars15q2g053qy84dtcl7z6pra3tzjnfd6l5tggmcuq", "cosmos": "cosmos15q2g053qy84dtcl7z6pra3tzjnfd6l5tu5v9h3"},
+    {"id": "floor-14", "label": "floor-14", "role": "floor", "stars": "stars16v8d0a6gg7qm28tzrcf66p6uy5ahczdhm4kegm", "cosmos": "cosmos16v8d0a6gg7qm28tzrcf66p6uy5ahczdh0fpyr2"},
+    {"id": "floor-15", "label": "floor-15", "role": "floor", "stars": "stars1sg0vytc8elpd0dlgj9cuq34up65hzs25aarj6g", "cosmos": "cosmos1sg0vytc8elpd0dlgj9cuq34up65hzs25fp503e"},
+    {"id": "floor-16", "label": "floor-16", "role": "floor", "stars": "stars1zgkz60nk2zfq26rapgafdz53zthvwg9zcnez7d", "cosmos": "cosmos1zgkz60nk2zfq26rapgafdz53zthvwg9zv0wl4u"},
+    {"id": "floor-17", "label": "floor-17", "role": "floor", "stars": "stars1ac6y0wqhwm6auq9tf0taxx5fl3kvw9xqqgtxmq", "cosmos": "cosmos1ac6y0wqhwm6auq9tf0taxx5fl3kvw9xq55ums3"},
+    {"id": "floor-18", "label": "floor-18", "role": "floor", "stars": "stars136n8gla3frr089xffww8t6fpl79jxedshwn80d", "cosmos": "cosmos136n8gla3frr089xffww8t6fpl79jxedsrjy6yu"},
+    {"id": "floor-19", "label": "floor-19", "role": "floor", "stars": "stars1rrxeplrgtsx0fjsj0fn0mnd8axnqa0ut3hp7qw", "cosmos": "cosmos1rrxeplrgtsx0fjsj0fn0mnd8axnqa0ut9tkrtl"},
+    {"id": "floor-20", "label": "floor-20", "role": "floor", "stars": "stars1lykgn2xhmqrdqrqkmf4308ukcs6s4vl6rx77ca", "cosmos": "cosmos1lykgn2xhmqrdqrqkmf4308ukcs6s4vl6h6frnv"},
+    {"id": "floor-21", "label": "floor-21", "role": "floor", "stars": "stars1aew5xf8w05v4mf6ks4qnczk5swesj97s3cnxeq", "cosmos": "cosmos1aew5xf8w05v4mf6ks4qnczk5swesj97s9yymj3"},
+    {"id": "floor-22", "label": "floor-22", "role": "floor", "stars": "stars1y8xvxlesrxrs5t0pah2qrgcv2pq7qjq2zptwyv", "cosmos": "cosmos1y8xvxlesrxrs5t0pah2qrgcv2pq7qjq2kaun0a"},
+    {"id": "floor-23", "label": "floor-23", "role": "floor", "stars": "stars1tc05m8pvfx0j6nh6rdhd0h4r084qny5trgt7j9", "cosmos": "cosmos1tc05m8pvfx0j6nh6rdhd0h4r084qny5th5ure5"},
+    {"id": "floor-24", "label": "floor-24", "role": "floor", "stars": "stars1htm9jvr26u4zk6eppc7lw2smtpt5ymm6gjxqt8", "cosmos": "cosmos1htm9jvr26u4zk6eppc7lw2smtpt5ymm6uw3aqk"},
+    {"id": "floor-25", "label": "floor-25", "role": "floor", "stars": "stars1rgh99fkmw4r95ava5jj2g5jyzcnqu3m6hn5ved", "cosmos": "cosmos1rgh99fkmw4r95ava5jj2g5jyzcnqu3m6r0r3ju"}
+  ]
+}
